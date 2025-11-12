@@ -86,12 +86,18 @@ If you choose not to use a virtual environment, ensure the system Python's pip i
 The app gathers system metrics using psutil. No additional configuration is required for local monitoring.
 
 ## Project structure
-perl
+
+
 advanced-system-monitor/
+
 ├── app.py
+
 ├── requirements.txt
+
 └── README.md
+
 Requirements (summary)
+
 Python 3.10+
 
 See requirements.txt for package versions
