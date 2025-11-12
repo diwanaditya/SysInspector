@@ -1,0 +1,15 @@
+# Core Web Framework
+Flask==3.0.3
+Werkzeug==3.0.4
+Jinja2==3.1.4
+itsdangerous==2.2.0
+click==8.1.7
+
+# System Monitoring
+psutil==5.9.8
+
+# Utilities and Helpers
+platformdirs==4.2.2
+
+# Optional / Recommended for Stability
+MarkupSafe==2.1.5
