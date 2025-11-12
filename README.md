@@ -1,4 +1,4 @@
-# System inspector (Flask + psutil)
+# System Inspector (Flask + psutil)
 
 ## Description
 A lightweight real-time system monitoring dashboard implemented with Flask that collects and displays CPU, memory, disk, and network metrics using `psutil`. Intended for local use to observe system performance and I/O behavior.
